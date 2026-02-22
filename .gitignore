@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+A2.zip
+A2.tar.gz
